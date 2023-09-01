@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! My name is Forrest Yankey. I'm currently attending Tech Elevator to learn how to become a software developer.
+
+Fun fact: I used to be an elementary music techer and have a Masters in Percussion Performance.
